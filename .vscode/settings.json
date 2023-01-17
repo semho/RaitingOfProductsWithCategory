@@ -1,3 +1,7 @@
 {
-  "cSpell.words": ["nestjs", "semho"]
+  "cSpell.words": [
+    "nestjs",
+    "semho"
+  ],
+  "editor.formatOnSave": true
 }
