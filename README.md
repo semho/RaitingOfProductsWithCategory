@@ -1,9 +1,9 @@
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
-<p align="center">
-##Api регистрации/авторизации пользователей, CRUD записей и коментарий к ним.
-</p>
+
+## Api регистрации/авторизации пользователей, CRUD записей и коментарий к ним.
+
 Стэк - nest.js и mongodb
 
 Для разворачивания проекта добавил контейнеризацию. После скачивания все файлов достаточно выполнить команду
