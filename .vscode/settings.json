@@ -3,5 +3,5 @@
     "nestjs",
     "semho"
   ],
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
 }

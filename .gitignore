@@ -41,3 +41,4 @@ mongo-data-4.4
 .clinic
 .clinic/*
 /.clinic
+/uploads
